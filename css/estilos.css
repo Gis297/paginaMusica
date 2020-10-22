@@ -1,0 +1,66 @@
+ body{
+    /*background-color: #e25454;*/
+    background-image: url(../img/original.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 50vh;
+    color: black;
+  }
+  
+  .carousel-video-inner {
+    text-align: center;
+  }
+
+  h1 {
+    font-family: 'Handlee', cursive;
+    font-size: 120px;
+    font-weight: 500;
+    text-align: center;
+    color: pink;   
+ }
+
+ h2 {
+    font-family: 'Handlee', cursive;
+ }
+
+ h5 {
+    font-family: 'Handlee', cursive;
+     size: 60px;
+     font-weight: 700;
+ }
+
+a {
+    font-family: 'Handlee', cursive;
+    font-size: 35px;
+}
+
+p {
+    color:black;
+    font-family: 'Handlee', cursive;
+}
+
+.color-N {
+    color: black;
+}
+
+.color-R {
+    color: white;
+}
+
+.fnt-fm {
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+}
+
+footer {
+    background-color: #343a40;
+    text-align: center;
+}
+
+footer p {
+    padding: 10px 0;
+}
+
+.color-pink{
+    background-color: pink; 
+}
